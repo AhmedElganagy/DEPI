@@ -15,36 +15,44 @@ We covered four modules in this week; these modules are:
           - Data in motion || data at rest 
 
   2- Publice key infrastructure (PKI):
-          - 1.Networking review
-          - Discovery, footprinting, and scanning
-          - Common Vulnerabilities and Exposures
-          - Security policies
-          - Vulnerabilities
-
+          - Public key infrastructure
+          - PKI components
+          - Certification authorities
+          - Enabling trust
+          - Certificates
+          - CA management
   3- Identity Management:
-          - What is hardening?
-          - Types of systems that can be hardened
-          - Mobile device management
-          - AAA (Authentication, Authorization, and Accounting)
-          - Physical security
+          - Identity management definition
+          - Authentication factors
+          - Directory services
+          - Kerberos
+          - Windows NT LAN Manager
+          - Password policies
+          - Cracking passwords
+          - Password managers
+          - Group accounts
           
   4- Network Hardening:
-          - How to build a secure network architecture
+          - Limiting remote admin access
+          - AAA: Administrative access
+          - Simple Network Management Protocol
+          - Network segmentation
+          - Limiting physical access
+          - Establishing secure access
           - Network devices
-          - What is a Firewall
-          - Next Generation Firewall (NGFW)
-          - Firewalls, IDS and IPS
 
 After each session there was an assignments that we've took:
-  - Provide a definition of systems hardening and explain its importance in maintaining cybersecurity.
-  - Discuss at least three different types of systems that can benefit from hardening (e.g.,servers, workstations, network devices).
-  - Describe five common systems hardening techniques, including:
-       1. Disabling unnecessary services
-       2. Implementing least privilege access
-       3. Patch management
-       4. Configuration baselines
-       5. Network segmentation
+  - Discuss common challenges organizations face in implementing identity management solutions.
+  - Provide examples of identity-related security incidents (e.g., account takeovers) and explain how they could have been prevented with proper identity management.
+  ===============================================================================================================================
 
-  + 2 labs on THM:
-       1. Introductory Networking 
-       2. Secure Network Architecture
+  • Choose a tool or programming language to encrypt a sample data file (e.g., OpenSSL, GPG, or a Python encryption library).
+  • Document the steps to encrypt and decrypt the file, including the commands or code used.
+  • Explain the significance of encryption in data security and how it protects data in transit and at rest.
+
+  + 5 labs on THM:
+      - Introduction to Cryptography
+      - Cryptography Basics
+      - Cryptography for Dummies
+      - encryptioncrypto101
+      - Identity and Access Management
