@@ -1,0 +1,50 @@
+This is my first vlog after attending the second week of the DEPI
+The week included 3 sessions ( 1 soft skills , 2 technical )
+The first technical session was an introduction to Cybersecurity
+We covered four modules in this week; these modules are:
+
+  1- Data Security:
+          in this module we covered alot of useful infromation about cyber security awareness.
+          - CIA triad
+          - DAD triad
+          - Security baselining
+          - Security concerns
+          - Types of threats
+          - Security controls
+          - Risk management
+          - Data in motion || data at rest 
+
+  2- Publice key infrastructure (PKI):
+          - 1.Networking review
+          - Discovery, footprinting, and scanning
+          - Common Vulnerabilities and Exposures
+          - Security policies
+          - Vulnerabilities
+
+  3- Identity Management:
+          - What is hardening?
+          - Types of systems that can be hardened
+          - Mobile device management
+          - AAA (Authentication, Authorization, and Accounting)
+          - Physical security
+          
+  4- Network Hardening:
+          - How to build a secure network architecture
+          - Network devices
+          - What is a Firewall
+          - Next Generation Firewall (NGFW)
+          - Firewalls, IDS and IPS
+
+After each session there was an assignments that we've took:
+  - Provide a definition of systems hardening and explain its importance in maintaining cybersecurity.
+  - Discuss at least three different types of systems that can benefit from hardening (e.g.,servers, workstations, network devices).
+  - Describe five common systems hardening techniques, including:
+       1. Disabling unnecessary services
+       2. Implementing least privilege access
+       3. Patch management
+       4. Configuration baselines
+       5. Network segmentation
+
+  + 2 labs on THM:
+       1. Introductory Networking 
+       2. Secure Network Architecture
