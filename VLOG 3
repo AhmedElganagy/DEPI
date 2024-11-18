@@ -3,56 +3,37 @@ The week included 3 sessions ( 1 soft skills , 2 technical )
 The first technical session was an introduction to Cybersecurity
 We covered four modules in this week; these modules are:
 
-  1- Data Security:
-          in this module we covered alot of useful infromation about cyber security awareness.
-          - CIA triad
-          - DAD triad
-          - Security baselining
-          - Security concerns
-          - Types of threats
-          - Security controls
-          - Risk management
-          - Data in motion || data at rest 
+  1- Malware:
+        - What is malware?
+        - Infection methods
+        - Malware types(Virus, Worm, Trojan, Spyware, Rootkit, Logic bomb, Zombie, Ransomware)
+        - How to keep your device or organization safe from malwares
 
-  2- Publice key infrastructure (PKI):
-          - Public key infrastructure
-          - PKI components
-          - Certification authorities
-          - Enabling trust
-          - Certificates
-          - CA management
-  3- Identity Management:
-          - Identity management definition
-          - Authentication factors
-          - Directory services
-          - Kerberos
-          - Windows NT LAN Manager
-          - Password policies
-          - Cracking passwords
-          - Password managers
-          - Group accounts
+  2- Social engineering:
+          - What is social engineering?
+          - Social engineering targets
+          - Social engineering attacks
+          - Statistical data
+          - Sources of security breaches
+          - Information harvesting
+          - Preventing social engineering
+
+  3- Software Security:
+          - Software engineering
+          - Security guidelines
+          - Software vulnerabilities
+          - Common attacks (Insider Attack, Close-in Attack, Exploit Attack, Spoof Attack, Hijack Attack, Buffer Overflow, Passive Attack, Active Attack)
           
-  4- Network Hardening:
-          - Limiting remote admin access
-          - AAA: Administrative access
-          - Simple Network Management Protocol
-          - Network segmentation
-          - Limiting physical access
-          - Establishing secure access
-          - Network devices
+  4- Environment Monitoring:
+          - What is Environment Monitoring.
+          - How could Environment Monitoring secure your organization.
+          - Techniques and devices used to monitor your environment.
+=================================================================================================================================================================
 
-After each session there was an assignments that we've took:
-  - Discuss common challenges organizations face in implementing identity management solutions.
-  - Provide examples of identity-related security incidents (e.g., account takeovers) and explain how they could have been prevented with proper identity management.
-  ===============================================================================================================================
+** We took some assignments about these topics and made some researches.
 
-  • Choose a tool or programming language to encrypt a sample data file (e.g., OpenSSL, GPG, or a Python encryption library).
-  • Document the steps to encrypt and decrypt the file, including the commands or code used.
-  • Explain the significance of encryption in data security and how it protects data in transit and at rest.
-
-  + 5 labs on THM:
-      - Introduction to Cryptography
-      - Cryptography Basics
-      - Cryptography for Dummies
-      - encryptioncrypto101
-      - Identity and Access Management
+  + 4 rooms on THM:
+      - Phishing Emails in Action
+      - comman attacks
+      - SDLC:An introduction to the Software Development Lifecycle.
+      - SSDLC: room focuses on the Secure Software Development Lifecycle (S-SDLC), its processes, and methodologies.
