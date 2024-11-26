@@ -1,32 +1,33 @@
 My fourth week at DEPI
-The week included 3 sessions ( 1 soft skills , 1 technical )
+The week included 3 sessions ( 1 soft skills , 2 technical )
 We covered four modules in this week; these modules are:
 
-  1- Malware:
-        - What is malware?
-        - Infection methods
-        - Malware types(Virus, Worm, Trojan, Spyware, Rootkit, Logic bomb, Zombie, Ransomware)
-        - How to keep your device or organization safe from malwares
+  1- Physical Security:
+        - What is physical security?
+        - Defense in depth
+        - Types of physical security controls
+        - Device security
+        - Human security
+        - Security policies
+        - Equipment tracking
 
-  2- Social engineering:
-          - What is social engineering?
-          - Social engineering targets
-          - Social engineering attacks
-          - Statistical data
-          - Sources of security breaches
-          - Information harvesting
-          - Preventing social engineering
+  2- Incident Response:
+          - Disaster types.
+          - Incident investigation tips.
+          - Business continuity planning.
+          - Disaster recovery plan.
+          - Forensic incident response.
 
-  3- Software Security:
-          - Software engineering
-          - Security guidelines
-          - Software vulnerabilities
-          - Common attacks (Insider Attack, Close-in Attack, Exploit Attack, Spoof Attack, Hijack Attack, Buffer Overflow, Passive Attack, Active Attack)
+  3- Legal Considerations:
+         - Regulatory compliance.
+         - Cybercrime.
           
-  4- Environment Monitoring:
-          - What is Environment Monitoring.
-          - How could Environment Monitoring secure your organization.
-          - Techniques and devices used to monitor your environment.
+  4- Trends in Cybersecurity:
+          - Cybersecurity design constraints.
+          - Cyber driving forces.
+          - Identity management.
+          - Cybersecurity standards.
+          - Cybersecurity training.
 =================================================================================================================================================================
 
 ** We took some assignments about these topics and made some researches.
