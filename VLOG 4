@@ -1,0 +1,38 @@
+My third week at DEPI
+The week included 3 sessions ( 1 soft skills , 2 technical )
+We covered four modules in this week; these modules are:
+
+  1- Malware:
+        - What is malware?
+        - Infection methods
+        - Malware types(Virus, Worm, Trojan, Spyware, Rootkit, Logic bomb, Zombie, Ransomware)
+        - How to keep your device or organization safe from malwares
+
+  2- Social engineering:
+          - What is social engineering?
+          - Social engineering targets
+          - Social engineering attacks
+          - Statistical data
+          - Sources of security breaches
+          - Information harvesting
+          - Preventing social engineering
+
+  3- Software Security:
+          - Software engineering
+          - Security guidelines
+          - Software vulnerabilities
+          - Common attacks (Insider Attack, Close-in Attack, Exploit Attack, Spoof Attack, Hijack Attack, Buffer Overflow, Passive Attack, Active Attack)
+          
+  4- Environment Monitoring:
+          - What is Environment Monitoring.
+          - How could Environment Monitoring secure your organization.
+          - Techniques and devices used to monitor your environment.
+=================================================================================================================================================================
+
+** We took some assignments about these topics and made some researches.
+
+  + 4 rooms on THM:
+      - Phishing Emails in Action
+      - comman attacks
+      - SDLC:An introduction to the Software Development Lifecycle.
+      - SSDLC: room focuses on the Secure Software Development Lifecycle (S-SDLC), its processes, and methodologies.
