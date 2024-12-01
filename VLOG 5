@@ -1,1 +1,27 @@
+My fifth week at DEPI
+The week included 3 sessions ( 1 soft skills , 2 technical )
+We covered alot of useful topics about Pen-test:
+ - We talked about the 5 phases of the penetration testing process:
+ - Steps are (Planning , Scanning , Exploitation , Maintaining Access , and Reporting).
+    1. Planning: 
+    Define the scope, goals, and rules of engagement for the test. 
+    This phase ensures legal and ethical boundaries are established and provides a clear understanding of the target environment.
 
+    2. Scanning: 
+    Gather information about the target by identifying open ports, 
+    running services, and vulnerabilities through passive and active reconnaissance techniques.
+
+    3. Exploitation: 
+    Attempt to exploit identified vulnerabilities to gain unauthorized access,
+    simulating real-world attacks to understand the risks and impact.
+
+    4. Maintaining Access: 
+    Simulate how attackers establish persistent access to compromised systems,
+    such as by installing backdoors, while avoiding detection.
+
+    5. Reporting: 
+    Document findings, including vulnerabilities, methods used, and potential impacts, with actionable recommendations for improving security.
+
+==================================================================================================================================================
+
+I'm glad to take a real step of the penetration testing and waiting for the next sessions.
